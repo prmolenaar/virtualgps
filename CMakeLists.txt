@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.15)
 PROJECT(virtualgps NONE)
 
 set (VERSION_MAJOR 1)
